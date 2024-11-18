@@ -1,0 +1,9 @@
+{
+  "name": "scandit-ionic",
+  "integrations": {},
+  "type": "angular",
+  "ssl": {
+    "key": "key.pem",
+    "cert": "cert.pem"
+  }
+}
